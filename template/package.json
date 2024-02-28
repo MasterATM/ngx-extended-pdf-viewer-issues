@@ -19,7 +19,7 @@
     "@angular/platform-browser": "^16.2.12",
     "@angular/platform-browser-dynamic": "^16.2.12",
     "@angular/router": "^16.2.12",
-    "ngx-extended-pdf-viewer": "^16.0.0",
+    "ngx-extended-pdf-viewer": "^17.0.0",
     "rxjs": "^6.6.7",
     "tslib": "^2.3.1",
     "zone.js": "~0.13.3"
